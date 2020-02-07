@@ -1,0 +1,12 @@
+/* .ox-hugo-toc .heading { */
+/*     font-size: 1.8em; */
+/*     font-weight: bold; */
+/*     text-align: center; */
+/*   } */
+
+.ox-hugo-toc {
+    position:fixed;
+    top: 10%;
+    right: 0;
+    width: 15%;
+}

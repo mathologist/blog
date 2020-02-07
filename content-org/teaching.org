@@ -1,0 +1,142 @@
+#+TITLE: Teaching
+#+TAGS: current past
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: teaching
+#+FILETAGS: teaching
+#+HUGO: more
+#+SEQ_TODO: TODO NEXT DONE
+#+HUGO_AUTO_SET_LASTMOD: t
+#+hugo_front_matter_key_replace: description>summary
+
+* Math 119                                                          :current:
+:PROPERTIES:
+:EXPORT_FILE_NAME: math119
+:EXPORT_DATE: <2018-02-28 Wed 23:55>
+:EXPORT_OPTIONS: toc:1
+:END:
+
+All of my slides are made using org-mode and then exporting to various formats. 
+
+** Sample Exams
+- [[../static/files/math119/exam01-sample.pdf][Sample Exam 1]]
+** Slides
+These slides go along with the Hawkes Learning textbook, /Beginning Statistics/ by Warren et al.
+- [[../static/files/math119/section-2.1.pdf][Section 2.1: Frequency Distributions]] ([[../static/files/math119/section-2.1-43.pdf][4:3 format]])
+- [[../static/files/math119/section-2.2.pdf][Section 2.2: Graphical Displays of Data]]
+- [[../static/files/math119/section-2.3.pdf][Section 2.3: Analyzing Graphs]] ([[../static/files/math119/section-2.3-43.pdf][4:3 format]])
+- [[../static/files/math119/section-3.1.pdf][Section 3.1: Measures of Center]] ([[../static/files/math119/section-3.1-43.pdf][4:3 format]])
+- [[../static/files/math119/section-3.2.pdf][Section 3.2: Measures of Dispersion]] ([[../static/files/math119/section-3.2-43.pdf][4:3 format]])
+- [[../static/files/math119/section-3.3.pdf][Section 3.3: Measures of Relative Position]] ([[../static/files/math119/section-3.3-43.pdf][4:3 format]])
+- [[../static/files/math119/section-4.1.pdf][Section 4.1: Introduction to Probability]]  ([[../static/files/math119/section-4.1-43.pdf][4:3 format]])
+- [[../static/files/math119/section-4.2.pdf][Section 4.2: Addition Rule for Probability]] ([[../static/files/math119/section-4.2-43.pdf][4:3 format]])
+- [[../static/files/math119/section-4.3.pdf][Section 4.3: Multiplication Rule for Probability]] ([[../static/files/math119/section-4.3.pdf][4:3 format]])
+- [[../static/files/math119/section-4.4.pdf][Section 4.4: Combinations and Permutations]] ([[../static/files/math119/section-4.4-43.pdf][4:3 format]])
+- [[../static/files/math119/section-4.5.pdf][Section 4.5: Combining Combinations and Probability]]
+- [[../static/files/math119/section-5.1.pdf][Section 5.1: Discrete Random Variables]] ([[../static/files/math119/section-5.1-43.pdf][4:3 format]])
+- [[../static/files/math119/section-5.2.pdf][Section 5.2: Binomial Distribution]] ([[../static/files/math119/section-5.2-43.pdf][4:3 format]])
+- [[../static/files/math119/section-5.3.pdf][Section 5.3: Poisson Distribution]] ([[../static/files/math119/section-5.3-43.pdf][4:3 format]])
+- [[../static/files/math119/section-6.2.pdf][Section 6.2: The Standard Normal Distribution]] ([[../static/files/math119/section-6.2-43.pdf][4:3 format]])
+- [[../static/files/math119/section-6.3.pdf][Section 6.3: Probability Using Normal Distributions]] ([[../static/files/math119/section-6.3-43.pdf][4:3 format]])
+- [[../static/files/math119/section-6.4.pdf][Section 6.4: Finding Values of a Normally Distributed Random Variable]] ([[../static/files/math119/section-6.4-43.pdf][4:3 format]])
+- [[../static/files/math119/section-6.5.pdf][Section 6.5: Approximation of a Binomial Distribution Using a Normal Distribution]] ([[../static/files/math119/section-6.5-43.pdf][4:3 format]])
+- [[../static/files/math119/section-7.1.pdf][Section 7.1: Introduction to the Central Limit Theorem]] ([[../static/files/math119/section-7.1-43.pdf][4:3 format]])
+- [[../static/files/math119/section-7.2.pdf][Section 7.2: Central Limit Theorem and Means]] ([[../static/files/math119/section-7.2-43.pdf][4:3 format]])
+- [[../static/files/math119/section-8.4.pdf][Section 8.4: Estimating Population Proportions]]
+- [[../static/files/math119/section-8.1.pdf][Sections 8.1, 8.2, and 8.3: Estimating Population Means]]
+- [[../static/files/math119/section-9.2.pdf][Section 9.2: Comparing Two Population Means]]
+- [[../static/files/math119/section-9.4.pdf][Section 9.4: Comparing Two Population Proportions]]
+- [[../static/files/math119/section-10.1.pdf][Section 10.1: Fundamentals of Hypothesis Testing]]
+- [[../static/files/math119/section-10.3.pdf][Section 10.3: Hypothesis Test for a Population Means]]
+- [[../static/files/math119/section-10.4.pdf][Section 10.4: Hypothesis Test for a Population Proportion]]
+- [[../static/files/math119/section-12.1.pdf][Sections 12.1: Scatterplots and Correlation]]
+- [[../static/files/math119/section-12.2.pdf][Sections 12.2: Linear Regression]]
+
+* Math 59                                                           :current:
+:PROPERTIES:
+:EXPORT_FILE_NAME: math59
+:END:
+** Book Links
+*** Page 3
+- [[https://youtu.be/gvQNybQO6E4?t=198][Abbott and Costello (start at 3:18) (YT)]]
+- [[https://www.youtube.com/watch?v=H14bBuluwB8][Angela Duckworth Grit TED talk (YT)]]
+- [[https://www.youtube.com/watch?v=Xs9aGVUZ3YA][Mathematigal - Math Major (YT)]]
+*** Page 5
+- [[https://youtu.be/3icoSeGqQtY][Jo Boaler - How you can be good at math (YT)]]
+*** Page 19
+- [[https://youtu.be/Je4rK9fMGKs][Interesting Numbers (1 to 50) (YT)]]
+*** Page 20
+- [[https://youtu.be/3YwrcJxEbZw][What Are Real Numbers? (YT)]]
+- [[https://youtu.be/IueVrMlmQ2I][Real Numbers - Categories! (YT)]]
+*** Page 35
+- [[https://youtu.be/DKUZx1Nk4yY][Faberge Organics Commercial (YT)]]
+- [[https://youtu.be/JA7CKvoKEmE][Wayne's World Parody of Faberge Organics Commercial (YT)]]
+- [[http://www.thealmightyguru.com/Pointless/PowersOf2.html][Powers of 2]]
+*** Page 36
+- [[https://www.eamesoffice.com/education/powers-of-ten-2/][Powers of 10]]
+*** Page 46
+- [[https://youtu.be/XM1NNRNmZ6c][Pattern Finding (YT)]]
+*** Page 72
+- [[https://youtu.be/oYIHLUxzRr8][Hot Dogs vs Hot Dog Buns (YT)]]
+*** Page 77
+- [[https://youtu.be/XnEqfTjp66A][Are Prime Numbers Made Up? (YT)]]
+- [[https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4][Sieve of Eratosthenes]]
+*** Page 78
+- [[https://youtu.be/XnEqfTjp66A][Are Prime Nubmers Made Up?]]
+*** Page 82
+- [[https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4][Sieve of Eratosthenes]]
+*** Page 90
+- [[https://www.consumerfinance.gov/][Consumer Finance Protection Bureau]]
+*** Page 108
+- [[http://www.globalwarmingequation.info/global%2520warming%2520eqn.pdf][Equation for Global Warming (PDF)]]
+*** Page 119
+- [[https://youtu.be/l3XzepN03KQ][Solving Equations Part 1 (YT)]]
+- [[https://youtu.be/Qyd_v3DGzTM][Solving Equations Part 2 (YT)]]
+- [[https://youtu.be/LDIiYKYvvdA][Solving 2-step equations (YT)]]
+*** Page 121
+- [[http://www.megsonline.net/lee_meg2.pdf][Growth Mindset (PDF)]]
+- [[https://youtu.be/KUWn_TJTrnU][Growth Mindset vs. Fixed Mindset (YT)]]
+- [[https://www.verywellfit.com/how-many-calories-does-running-burn-2911108][How Many Calories Does Running Burn?]]
+*** Page 122
+- [[https://www.runnersworld.com/training/a20801301/calories-burned-running-calculator/][Calorie Burn Calculator]]
+*** Page 130
+- [[https://youtu.be/52tpYl2tTqk][What Are Functions? (YT)]]
+*** Page 132
+- [[https://youtu.be/52tpYl2tTqk?t=340][What Are Functions? (YT)]]
+*** Page 133
+- [[https://youtu.be/52tpYl2tTqk?t=497][What Are Functions? (YT)]]
+*** Page 154
+- [[https://youtu.be/sE4eq0cjLFk]["A Function" Math Rap (YT)]]
+*** Page 14
+
+* Statway                                                              :past:
+:PROPERTIES:
+:EXPORT_FILE_NAME: statway
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :math true
+:END:
+
+I've created an excel workbook to help with calculations. I will be updating it as needed throughout the semester. It's available in 3 formats:
+- [[../static/files/statway.xlsx][Click here to download xlsx (for Microsoft Excel).]]
+- [[../static/files/statway.ods][Click here to download ods (LibreOffice or OpenOffice).]]
+- [[https://drive.google.com/open?id=1cQAY7yrZAuipdvJae8he64GtOHEwLB8jl4Ct6r2VmV0][Click here to access the document on Google Drive.]]
+
+I've also created a program for the TI Calculator that will calculate the expected numbers for the $\chi^2$ test for independence / homogeneity. You can download it [[../static/files/CHISQ.8xp][here.]] Or you can code it yourself. The code is as follows:
+#+begin_example
+: dim([A])→L₆
+: L₆(1)→R
+: L₆(2)→C
+: Matr▶list(cumSum([A])ᵀ,R,L₆
+: sum(L₆)→T
+: {R,C}→dim([B]
+: For(I,1,R)
+: For(J,1,C)
+: Matr▶list([A]ᵀ,I,L₆
+: Matr▶list([A],J,L₅
+: sum(L₅)*sum(L₆)/T → [B](I,J)
+: End
+: End
+#+end_example
+
+I'm also redoing some of the Statway online tools to make them (IMHO) better. So far I have:
+- [[http://stats.mathologist.net/mms/][M&M Proportion Simulator]]
+- [[http://stats.mathologist.net/normal/][Normal Distribution Calculator]]
+- [[http://stats.mathologist.net/t/][Student T Distribution Calculator]]
